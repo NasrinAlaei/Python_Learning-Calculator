@@ -1,4 +1,4 @@
-# Python_Learning-Calculator
+# Simple Calculator
 
 
 In this section, the tutorial on making a calculator with Python is presented in simple language.
